@@ -9,6 +9,11 @@ This MATLAB program demonstrates linear regression on a synthetic dataset. It ge
 - `linear_regression.m`: MATLAB script containing the linear regression program.
 - `README.md`: This README file providing an overview of the program.
 
+## Output 
+
+![download (1)](https://github.com/ssaad5678/MATLAB-Simulations/assets/84627426/3b0e0ae1-f704-48da-be2c-78025dc2e4da)
+
+
 ## Usage
 
 1. Clone or download the repository to your local machine.
