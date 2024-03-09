@@ -27,4 +27,6 @@ The program follows these steps:
 
 Syed Saad
 
+![download](https://github.com/ssaad5678/MATLAB-Simulations/assets/84627426/43175983-fda3-417b-93ad-c45092946934)
+
 
