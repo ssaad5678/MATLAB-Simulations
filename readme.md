@@ -4,6 +4,9 @@
 
 This MATLAB program demonstrates the use of the Fast Fourier Transform (FFT) algorithm to analyze the frequency components of a signal. The program generates a sample signal containing two sinusoids of different frequencies, corrupts it with random noise, and then applies FFT to obtain the frequency spectrum of the signal.
 
+## Output 
+
+ ![download](https://github.com/ssaad5678/MATLAB-Simulations/assets/84627426/43175983-fda3-417b-93ad-c45092946934)
 
 ## Usage
 
@@ -27,6 +30,5 @@ The program follows these steps:
 
 Syed Saad
 
-![download](https://github.com/ssaad5678/MATLAB-Simulations/assets/84627426/43175983-fda3-417b-93ad-c45092946934)
 
 
